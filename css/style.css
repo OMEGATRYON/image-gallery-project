@@ -1,3 +1,7 @@
+html {
+  background: linear-gradient(cyan , blue);
+}
+
 h1 {
     font-family: helvetica, arial, sans-serif;
     text-align: center;
@@ -41,3 +45,5 @@ h1 {
     float: left;
     cursor: pointer;
   }
+
+  
